@@ -1,0 +1,9 @@
+Function=xamarin_timezone_get_data
+	/Users/LTIMobility/Desktop/Examples/iOS/CarouselViewDemo/CarouselViewDemo/obj/iPhone/Debug/device-builds/iphone8.1-11.3.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/LTIMobility/Desktop/Examples/iOS/CarouselViewDemo/CarouselViewDemo/obj/iPhone/Debug/device-builds/iphone8.1-11.3.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_get_block_descriptor
+	/Users/LTIMobility/Desktop/Examples/iOS/CarouselViewDemo/CarouselViewDemo/obj/iPhone/Debug/device-builds/iphone8.1-11.3.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/LTIMobility/Desktop/Examples/iOS/CarouselViewDemo/CarouselViewDemo/obj/iPhone/Debug/device-builds/iphone8.1-11.3.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=mono_pmip

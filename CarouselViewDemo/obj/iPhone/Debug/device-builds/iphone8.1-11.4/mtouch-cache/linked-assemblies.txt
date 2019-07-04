@@ -1,0 +1,5 @@
+RemoveDynamicRegistrar:true
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/bin/iPhone/Debug/device-builds/iphone8.1-11.4/CarouselViewDemo.app:/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhone/Debug/device-builds/iphone8.1-11.4/mtouch-cache/Link/CarouselViewDemo.exe
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/bin/iPhone/Debug/device-builds/iphone8.1-11.4/CarouselViewDemo.app:/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhone/Debug/device-builds/iphone8.1-11.4/mtouch-cache/Link/mscorlib.dll
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/bin/iPhone/Debug/device-builds/iphone8.1-11.4/CarouselViewDemo.app:/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhone/Debug/device-builds/iphone8.1-11.4/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/bin/iPhone/Debug/device-builds/iphone8.1-11.4/CarouselViewDemo.app:/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhone/Debug/device-builds/iphone8.1-11.4/mtouch-cache/Link/System.dll

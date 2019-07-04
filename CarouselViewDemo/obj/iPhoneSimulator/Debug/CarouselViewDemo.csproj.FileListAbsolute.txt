@@ -1,0 +1,12 @@
+/Users/infphszcmacmi0008/Desktop/Manoj/DEMO/CarouselViewDemo/CarouselViewDemo/bin/iPhoneSimulator/Debug/CarouselViewDemo.exe
+/Users/infphszcmacmi0008/Desktop/Manoj/DEMO/CarouselViewDemo/CarouselViewDemo/bin/iPhoneSimulator/Debug/CarouselViewDemo.pdb
+/Users/infphszcmacmi0008/Desktop/Manoj/DEMO/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/infphszcmacmi0008/Desktop/Manoj/DEMO/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/_PartialAppManifest.items
+/Users/infphszcmacmi0008/Desktop/Manoj/DEMO/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/_BundleResourceWithLogicalName.items
+/Users/infphszcmacmi0008/Desktop/Manoj/DEMO/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/_PartialAppManifest.items
+/Users/infphszcmacmi0008/Desktop/Manoj/DEMO/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/infphszcmacmi0008/Desktop/Manoj/DEMO/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/
+/Users/infphszcmacmi0008/Desktop/Manoj/DEMO/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/CarouselViewDemo.csprojAssemblyReference.cache
+/Users/infphszcmacmi0008/Desktop/Manoj/DEMO/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/CarouselViewDemo.csproj.CoreCompileInputs.cache
+/Users/infphszcmacmi0008/Desktop/Manoj/DEMO/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/CarouselViewDemo.exe
+/Users/infphszcmacmi0008/Desktop/Manoj/DEMO/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/CarouselViewDemo.pdb

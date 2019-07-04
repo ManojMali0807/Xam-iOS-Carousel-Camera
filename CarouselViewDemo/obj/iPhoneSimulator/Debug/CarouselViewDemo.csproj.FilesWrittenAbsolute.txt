@@ -1,0 +1,17 @@
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-11.4/actool/_PartialAppManifest.items
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-11.4/coremlc/_PartialAppManifest.items
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-11.4/optimized/
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/bin/iPhoneSimulator/Debug/CarouselViewDemo.pdb
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/bin/iPhoneSimulator/Debug/CarouselViewDemo.exe
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/CarouselViewDemo.exe
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/CarouselViewDemo.pdb
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.4/actool/_PartialAppManifest.items
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.4/coremlc/_PartialAppManifest.items
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/punemobility/Downloads/CarouselViewDemo/CarouselViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.4/optimized/
